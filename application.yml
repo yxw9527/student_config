@@ -3,7 +3,7 @@ spring:
   profiles: 
     active: prod1
 
----  #这里是mybatis的配置环境
+---  #这里是开发的配置环境
 server:
  port: 8005  #1定义项目端口
  servlet:
